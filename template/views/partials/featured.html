@@ -1,0 +1,32 @@
+{{ if theme:options:slider == 'yes' }}
+	<div id="myCarousel" class="carousel slide">
+		<div class="carousel-inner">
+		  <div class="item active">
+			{{ theme:image file="featured/bootstrap-mdo-sfmoma-01.jpg" }}
+			<div class="carousel-caption">
+			  <h4>First Thumbnail label</h4>
+			  <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+			</div>
+
+		  </div>
+		  <div class="item">
+			{{ theme:image file="featured/bootstrap-mdo-sfmoma-02.jpg" }}
+			<div class="carousel-caption">
+			  <h4>Second Thumbnail label</h4>
+			  <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+			</div>
+		  </div>
+
+		  <div class="item">
+			{{ theme:image file="featured/bootstrap-mdo-sfmoma-03.jpg" }}
+			<div class="carousel-caption">
+			  <h4>Third Thumbnail label</h4>
+			  <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+			</div>
+		  </div>
+		</div>
+
+		<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+		<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+	  </div>
+{{ endif }}
