@@ -13,10 +13,10 @@ A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap v2.02.
 
 ### Installation
 
-Unzip the folder to your addons themes directory.
-Rename the directory to your theme name.
-Change the theme name in theme.php
-Activate the theme in your PyroCMS Control panel.
+* Unzip the folder to your addons themes directory.
+* Rename the directory to your theme name.
+* Change the theme name in theme.php
+* Activate the theme in your PyroCMS Control panel.
 
 ### References
 
