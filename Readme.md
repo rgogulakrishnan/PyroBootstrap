@@ -1,9 +1,9 @@
 
-h1. PyroBootstrap v0.2.1
+h1. PyroBootstrap v0.2.2
 
 PyroBootstrap is a Theme template for PyroCMS.
 
-A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap v2.02.
+A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap v2.3.2 and jQuery 1.7.2
 
 *Note: This is not a theme. A template to kick-start your PyroCMS theme.*
 
@@ -21,6 +21,6 @@ h4. Installation
 
 h4. References
 
-* "Author":http://twitter.com/rgogulakrishnan
+* "Author":http://rgogulakrishnan.com
 * "Website":http://netpines.com/blog/2012/02/pyrobootstrap-theme-template-to-kick-start-your-design-process
 * "Bootstrap library":http://twitter.github.com/bootstrap
