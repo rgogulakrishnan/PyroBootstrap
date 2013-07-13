@@ -20,6 +20,6 @@ A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap v2.3.2 and
 
 ### References
 
-* Author:http://rgogulakrishnan.com
-* Website:http://netpines.com/blog/2012/02/pyrobootstrap-theme-template-to-kick-start-your-design-process
-* Bootstrap library:http://twitter.github.com/bootstrap
+* [Author](http://rgogulakrishnan.com)
+* [Website](http://netpines.com/blog/2012/02/pyrobootstrap-theme-template-to-kick-start-your-design-process)
+* [Bootstrap library](:http://twitter.github.com/bootstrap)
