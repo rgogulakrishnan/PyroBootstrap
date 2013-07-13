@@ -1,4 +1,4 @@
-h1. PyroBootstrap v0.2.2
+##PyroBootstrap v0.2.2
 
 PyroBootstrap is a Theme template for PyroCMS.
 
