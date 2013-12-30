@@ -6,7 +6,7 @@ class Theme_Template extends Theme {
     public $author = 'Author Name';
     public $author_website = 'http://iamtheauthor.com/';
     public $website = 'http://www.mysite.com/';
-    public $description = 'A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap';
+    public $description = 'A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap, FontAwesome and jQuery';
     public $version = '0.1';
 	public $options = array(					
 					'slider' => array(
