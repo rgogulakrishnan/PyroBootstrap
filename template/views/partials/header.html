@@ -19,9 +19,18 @@
 		<base href="{{ url:base }}"/>
 		
 		{{ theme:favicon }}
-		{{ theme:css file="bootstrap.min.css" }}
-		{{ theme:css file="bootstrap-theme.min.css" }}
-		{{ theme:css file="font-awesome.min.css" }}
+
+		{{ if global:environment == 'production' }}
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+		{{ else }}
+		{{ theme:css file="bootstrap.css" }}
+		{{ theme:css file="bootstrap-theme.css" }}
+		{{ theme:css file="font-awesome.css" }}
+		{{ endif }}
+
+
 		{{ theme:css file="styles.css" }}
 		
 		{{ template:metadata }}
