@@ -2,7 +2,7 @@
 
 PyroBootstrap is a Theme template for PyroCMS.
 
-A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap v3.0.3, FontAwesome  and jQuery 2.0.3
+A HTML5 and CSS3 Responsive Theme template based on Twitter Bootstrap v3.0.3, FontAwesome v4.0.3 and jQuery 2.0.3
 
 *Note:* 
 * This is not a theme. A template to kick-start your PyroCMS theme.
